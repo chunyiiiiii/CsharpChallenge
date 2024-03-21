@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpChallenge", "CsharpChallenge.csproj", "{03CDA811-5C85-488F-9EA3-9FB16B5E468D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigNumber", "BigNumber.csproj", "{03CDA811-5C85-488F-9EA3-9FB16B5E468D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
